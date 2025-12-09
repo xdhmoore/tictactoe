@@ -7,7 +7,7 @@
 
 ## Tic-Tac-Toe
 
-A CLI Tic-Tac-Toe game with an AI player based on [the minimax algorithm](https://en.wikipedia.org/wiki/Minimax#Combinatorial_game_theory).
+A command line Tic-Tac-Toe game with an AI player based on [the minimax algorithm](https://en.wikipedia.org/wiki/Minimax#Combinatorial_game_theory).
 
 ### Installing
 
