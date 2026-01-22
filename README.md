@@ -31,7 +31,7 @@ This was was a class project before I learned more about Python testing framewor
 python -t .\tictactoe.py
 ```
 
-### Contriting
+### Contributing
 This was a one-off project and no contributions are being accepted at this time. Please feel free fork the repo though :)
 
 ## License
